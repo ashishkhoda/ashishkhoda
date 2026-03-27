@@ -8,6 +8,22 @@ Over the last 3+ years, I’ve been working as a backend-focused engineer, build
 
 I like owning features end-to-end, from designing databases to shipping APIs and fixing real production issues. Currently focused on growing as a Backend Heavy Full Stack Engineer and working with product teams that build meaningful, scalable technology.
 
+
+
+Skills:
+
+• Languages: JavaScript, TypeScript, Python, SQL
+
+• Backend: Node.js, Express.js, Nest.js, FastAPI
+
+• Frontend: React, Redux
+
+• Databases: PostgreSQL, MySQL, MongoDB, Redis, Pinecone
+
+• Cloud & DevOps: AWS, Docker, CI/CD
+
+• Concepts: REST APIs, GenAI, RAG, Distributed Systems, Caching, Event-Driven Architecture, Authentication, RBAC, Scalability
+
 * 🌍  I'm based in India
 * ✉️  You can contact me at [ashishkhoda.0505@gmail.com](mailto:ashishkhoda.0505@gmail.com)
 * 🧠  I'm currently learning Agentic AI, System Design, scaling and optimizations.
